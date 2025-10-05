@@ -1,7 +1,8 @@
-#Covarage
-
+#Cobrage
 *.out
 
 Db folder
 
 db/
+
+.env
