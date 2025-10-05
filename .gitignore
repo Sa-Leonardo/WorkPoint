@@ -1,0 +1,7 @@
+#Covarage
+
+*.out
+
+Db folder
+
+db/
